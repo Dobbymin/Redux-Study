@@ -4,7 +4,6 @@ import classes from './Products.module.css';
 const DUMMY_PRODUCTS = [
     { id: 'p1', price: 6, title: 'My First book', description: 'The first book I ever wrote' },
     { id: 'p2', price: 5, title: 'My Second book', description: 'The second book I ever wrote' },
-    { id: 'p3', price: 7, title: 'My Third book', description: 'The third book I ever wrote' },
 ];
 
 const Products = (props) => {
